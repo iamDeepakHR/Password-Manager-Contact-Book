@@ -30,7 +30,7 @@ A simple Python-based application that provides a secure and user-friendly inter
 
 1. Clone this repository:
    bash
-   git clone https://github.com/iamDeepakHR/PasswordManagerContactBook.git
+   git clone https://github.com/iamDeepakHR/Password-Manager-Contact-Book.git
 2. Navigate to the project directory:
    bash
    cd PasswordManagerContactBook
